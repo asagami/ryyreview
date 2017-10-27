@@ -1,0 +1,7 @@
+PID    COMMAND      %CPU TIME     #TH   #WQ  #PORT MEM    PURG   CMPRS  PGRP  PPID  STATE    BOOSTS
+14042  zsh          0.0  00:00.14 1     0    19    2556K  0B     0B     14042 14041 sleeping *0[1]3E131E23E2E2E2E2E
+14041  login        0.0  00:00.03 2     1    30    2188K  0B     0B     14041 14040 sleeping *0[9]R13R2R23R3
+14040  iTerm2       0.0  00:00.02 2     1    30    2784K  0B     0B     14040 14038 sleeping *0[1]
+14038  iTerm2       5.5  00:02.33 10    5    274+  63M+   1216K  0B     14038 1     sleeping *0[9+]
+14034  CFNetworkAge 0.0  00:00.07 3     2    50    8172K  0B     0B     14034 1     sleeping *0[1]
+14022  fsnotifier   0.0  00:00.01 4     2    31    788K   0B     0B     14003 14003 sleeping *0[1]
